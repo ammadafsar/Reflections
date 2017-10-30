@@ -1,0 +1,36 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    Diff could easily show the lines that have changed with what exactly was changed
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    Having different versions of the doc, i.e the entire history lets you see the development of the thing and also be able to re-use the initial codes for a completely different task
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Manually choosing commits help to describe what the thing is that is being changed with a descriptive message. On the contrary you could have lost some valuable thing you should have commied. So the best bet is a hybrid commiting strategy like in the google docs which allows you to commit manually as well as auto-commits it for you.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Because docs is generally for documents that is why, whereas git is for code repositories, so a change might include a change in header file and program file as well.
+
+How can you use the commands git log and git diff to view the history of files?
+    
+    git log displays all of the commit history, I am not sure if it shows that for across the branches or only the current branch, it should show all of the branch fork and merges,
+    We'll see as we move on in the course what exactly happens. 
+
+    The other thing is the git diff param1 param2 , it shows the differences between these two commits and what is deleted or inserted.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    It makes us confident to make changes such that even if it breaks anything, we could always revert back to a previous version.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Everything from Code to docs I know some things about source control. Thanks to my willingness to learn and for udacity.
