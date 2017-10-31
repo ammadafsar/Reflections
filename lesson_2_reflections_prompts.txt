@@ -17,6 +17,8 @@ organized? How would branches help?
 
 How do the diagrams help you visualize the branch structure?
 
+	Diagrams help to visualize how the different states of the branches and the commit links following through those branches. If we checkout a previous commit and work on it we are then in a detached head state and further commits to it are lost because it is on an unnamed branch
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
