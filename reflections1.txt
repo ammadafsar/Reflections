@@ -1,3 +1,0 @@
-I am learning version control from the command line using git bash and vim editor, I can also use a more convinient editor like notepad++ or sublime text or even notepad. But choosing to do in vim is because I am learning like from the scratch and since its popular there must be a reason for it, most probably its ease of use and increasing productivity as a developer. I also learnt how to move files from bash with the mv command. for example mv folder/*.txt folder/newfolderfortext.
-Learning is fun and you feel happy when something you code/make works. 
-
